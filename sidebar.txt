@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ush:home|Door43 (ush)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ush|d43-ush repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ush/archive/master.zip|d43-ush.zip]]
+
+**Recent Changes**
+{{changes>ns = ush}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ush|Ethnologue data]]
+
